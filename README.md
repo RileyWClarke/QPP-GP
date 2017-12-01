@@ -1,7 +1,7 @@
 # QPP-GP
 Fitting Quasi-Periodic Pulsations in Stellar Flares with Gaussian Processes
 
-![](https://raw.githubusercontent.com/rileywclarke/QPP-GP/Figures/fit_comparison(full).png)
+![](/Master/Figures/fit_comparison(full).png?raw=true "Fit Comparison")
 
 This project uses Celerite, a scalable method for Gaussian Process regression created by Daniel Foreman-Mackey. For documentation see here: http://celerite.readthedocs.io/en/stable/
 
